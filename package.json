@@ -11,7 +11,11 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.1.0",
+    "react-sound": "^1.2.0",
+    "require": "^0.4.4",
+    "require-context": "^1.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
